@@ -19,7 +19,7 @@ namespace NumbersGame
             }
             Console.WriteLine("Tyvärr du lyckades inte gissa talet på fem försök!");
             Environment.Exit(0);
-
+            // Tjo tjo
 
         }
         static void CheckGuess(int number, int userGuess)
